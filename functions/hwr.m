@@ -1,0 +1,1 @@
+%% half-wave rectification function output = hwr(input)output = (abs(input) + input)/2;
